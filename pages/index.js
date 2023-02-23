@@ -139,7 +139,7 @@ export default function Home() {
           </div>
           <button className={styles.lButton}>Another Logged In Device</button>
           <div className={styles.noAccountText}>
-            Don't have an account?
+            Don&apos;t have an account?
             <a className={styles.signUpBtn} href="https://www.roblox.com/">
               Sign Up
             </a>
